@@ -186,5 +186,3 @@ Click the **Open in Colab** badge at the top. If `data/` is not present, the not
 | `flight_price_model.pickle` | the saved best model and its feature columns |
 
 ---
-
-*Built for the Machine Learning course project. Dataset provided through the course Kaggle competition.*
