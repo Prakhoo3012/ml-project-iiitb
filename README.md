@@ -38,7 +38,6 @@ A supervised **regression** project for a Machine Learning course Kaggle competi
     - [Option A: Locally](#option-a-locally)
     - [Option B: Google Colab (no installation)](#option-b-google-colab-no-installation)
     - [Output files](#output-files)
-  - [Team Contributions](#team-contributions)
 
 ---
 
@@ -185,15 +184,6 @@ Click the **Open in Colab** badge at the top. If `data/` is not present, the not
 | `my_submission.csv` | final section: predictions on `test.csv`, columns `id`, `price` (the file to upload to Kaggle) |
 | `experiment_log.csv` | results table of all models |
 | `flight_price_model.pickle` | the saved best model and its feature columns |
-
-## Team Contributions
-
-| Member | Contribution |
-|---|---|
-| [@Prakhoo3012](https://github.com/Prakhoo3012) | `<e.g. EDA and visualisation>` |
-| `<Name 2>` | `<e.g. preprocessing and feature engineering>` |
-| `<Name 3>` | `<e.g. linear, polynomial, Ridge and Lasso models>` |
-| `<Name 4>` | `<e.g. regression tree, report>` |
 
 ---
 
