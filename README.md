@@ -7,9 +7,6 @@
 
 A supervised **regression** project for a Machine Learning course Kaggle competition. The goal is to predict the ticket price of a domestic flight from its characteristics (airline, route, class, stops, duration, days before departure, etc.).
 
-> **Course:** Machine Learning · **Project:** Course Project I · **Deadline:** 15 October 2026
-> **Team:** [@Prakhoo3012](https://github.com/Prakhoo3012), `<Name 2>`, `<Name 3>`, `<Name 4>`
-
 ## Quick Links
 
 | What | Link |
@@ -17,8 +14,6 @@ A supervised **regression** project for a Machine Learning course Kaggle competi
 | 📓 Main notebook (EDA → preprocessing → models → submission) | [`Flight_Price_Regression_Analysis.ipynb`](Flight_Price_Regression_Analysis.ipynb) |
 | 🧪 Every model tried and its scores | [`experiment_log.csv`](experiment_log.csv) |
 | 📂 Data folder | [`data/`](data/) → [`train.csv`](data/train.csv) · [`test.csv`](data/test.csv) · [`submission.csv`](data/submission.csv) (Kaggle-format predictions) |
-| 📦 Dependencies | [`requirements.txt`](requirements.txt) |
-| 🏁 Kaggle competition | `<add competition link here>` |
 | 🐙 Repository | <https://github.com/Prakhoo3012/ml-project-iiitb> |
 
 ## Contents
