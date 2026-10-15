@@ -1,0 +1,12 @@
+Model,R2_original_features,R2_full_features,RMSE,MAE,Seconds
+ExtraTrees,0.6824,0.8106,96.6,19.3,109
+LightGBM,0.7052,0.8093,96.9,21.2,32
+CatBoost,0.6729,0.8082,97.2,22.4,123
+XGBoost,0.7017,0.8081,97.2,20.3,78
+RandomForest,0.6842,0.8039,98.3,20.3,221
+HistGradientBoosting,0.6965,0.8006,99.1,22.7,14
+KNN,0.6295,0.7552,109.8,26.9,2
+Lasso,0.5295,0.7483,111.4,37.7,26
+Ridge,0.5296,0.7482,111.4,37.7,2
+Linear,0.5296,0.7481,111.4,37.8,2
+DecisionTree,0.6143,0.7311,115.1,28.7,5
